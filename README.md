@@ -1,1 +1,1 @@
-# go_hello_module
+# go_hello_module x main
